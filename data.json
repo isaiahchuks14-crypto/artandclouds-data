@@ -1,0 +1,21 @@
+{
+  "packages": [
+    {"category": "Website", "packageName": "Starter Website", "price": "N25,000-50,000", "features": "1-3 Pages, Mobile Reponsive, WhatsApp Button, Basic SEO, 7 Days Delivery"},
+    {"category": "Website", "packageName": "Business Website", "price": "N50,000-75,000", "features": "5-7 Pages, Gallery + Blog, Contact Form, Google Map, 14 Days + 1 Month Support"},
+    {"category": "Website", "packageName": "Premium Website", "price": "N75,000-120,000", "features": "Unlimited Pages, Admin panel, Advanced SEO, 21 Days +3 Months Support"},
+    {"category": "Graphic", "packageName": "Logo Design", "price": "N5,000", "features": "2 Concept, Amber Theme, JPG PNG PDF, 48hrs Delivery"},
+    {"category": "Graphic", "packageName": "Flyer / Social Post", "price": "N3,000", "features": "Event/Sales/Promo, IG + FB Sizes, 1 Revision, 24hrs-48hrs Delivery"},
+    {"category": "Graphic", "packageName": "Flex Banners", "price": "N350", "features": "Per sqft pricing + Workmanship, Print Ready"},
+    {"category": "Graphic", "packageName": "Startup Bundle", "price": "N60,000", "features": "Website + Logo + 3 Flyers, Consistent Branding, 48hrs + 3 Months Support"}
+  ],
+  "portfolio": [
+    {"title": "GLOWLAB", "logo": "glowlab.jpg", "screenshot": "glowlab-screen.jpg", "whatClientWants": "Premium one-page website to launch skincare brand and take orders on WhatsApp", "whatWeDeliver": "Clean amber-themed landing page with product showcase, testimonials, and WhatsApp order button. Mobile-first and SEO ready", "link": "https://glowlab.artandclouds.com.ng", "status": "Live"},
+    {"title": "ASO-EKO", "logo": "aso-eko.jpg", "screenshot": "aso-eko-screen.jpg", "whatClientWants": "Simple 2-page website to display Aso-Oke catalog and collect customer inquiries", "whatWeDeliver": "Elegant gallery page + contact form. Easy to update. Loads fast. Built to look professional for Lagos customers", "link": "https://aso-eko.artandclouds.com.ng", "status": "Live"},
+    {"title": "LUMINA ACADEMY", "logo": "luminaacad.jpg", "screenshot": "luminaacad-screen.jpg", "whatClientWants": "Full school website with admissions, courses, blog, and forms for parents to apply", "whatWeDeliver": "", "link": "https://luminaacad.artandclouds.com.ng", "status": "Live"},
+    {"title": "CHYMMA'S KITCHEN", "logo": "chymma-logo.jpg", "screenshot": "chymma-screen.jpg", "whatClientWants": "Culinary academy website to showcase courses and take student registrations", "whatWeDeliver": "Responsive site with course catalog, about page, and WhatsApp registration button", "link": "https://chymmas-kitchen.artandclouds.com.ng", "status": "Live"},
+    {"title": "FANAZZCHY COUTURE", "logo": "fanazzchy-logo.jpg", "screenshot": "fanazzchy-screen.jpg", "whatClientWants": "Luxury fashion brand website to showcase designs and take WhatsApp orders", "whatWeDeliver": "Elegant catalog website with product gallery and direct WhatsApp ordering system", "link": "https://fanazzchy-couture.artandclouds.com.ng", "status": "Live"}
+  ],
+  "reviews": [
+    {"name": "Victor Chibuzo", "rating": 4, "review": "I loved the hospitality I received,he gave me more than I asked for", "date": "2026-07-01", "service": "1-page landing site", "showOnHome": "Yes"}
+  ]
+}
